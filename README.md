@@ -4,7 +4,7 @@ Hiring new people takes a lot of effort and resources. That is why it is importa
 Another thing useful to know is the profile of people most likely to quit. By recognising this, the employee can then think of ways of attracting the potentially 
 quitting employees to stay in the company.
 
-Today I will be addressing that problem by answering the following questions in my analysis:
+Today I will be addressing that problem by answering the following questions:
 1) What is the profile of the most successful employee for the company so far (including their gender, citizenship and origins)?
 2) What is the profile of the most likely to quit employee (including age, marital status, and how long they have worked for the company)?
 
@@ -42,14 +42,38 @@ An interactive Tableau dashboard can be found here.
 - diversity job fair- 23 employed
 - via the monster.com website- 15 employed
   
-Quite a few are getting employed by referral or via word of mouth, which can suggest
+Quite a few people are getting employed by referral or via word of mouth, which can suggest
 that people are generally happy with the company to refer people in.
+
+### The most popular reason why employees have left the company:
+- feeling unhappy- 161
+- wanting more money- 119
+
+There are a couple of termination reasons that the company could take action to prevent employees from quitting, 
+such as:
+- medical issues, 
+- more money, 
+- maternity leave-did not return
+- unhappy
+For medical issues, the company could have a better support system, be more flexible with the employee 
+having to see doctors and stay in hospitals.
+
+Some mothers leave after giving birth. Companies could prevent that by allowing new parents to be 
+flexible with work, allowing leaving work to pick up their kids from school or stay at home if the kid is ill.
 
 ## Recommendations and Next Steps
 - The least employees bring website banner ads and social media. This could mean that the company
-could stop advertising their job openings via website banners.
+could stop advertising their job openings via website banners and save some money thanks to that and spend them elsewhere.
 - The company could pay more attention to their presence in social networking media and look into 
 having a dedicated employee to deal with posts on Facebook and Twitter.
+- The company should review if they regularly increase the salary of hard-working employees.
+- To prevent employees from leaving because of feeling unhappy the company could provide their employees
+a regular mental support and openly support the employees taking time off to take care of their mental health.
+
+
+
+
+
   
 
 
