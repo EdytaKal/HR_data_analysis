@@ -61,14 +61,33 @@ having to see doctors and stay in hospitals.
 Some mothers leave after giving birth. Companies could prevent that by allowing new parents to be 
 flexible with work, allowing leaving work to pick up their kids from school or stay at home if the kid is ill.
 
+### Deciding factors when it comes to employees quitting
+The highest rate of people leaving is after 9 years of working in a company- 344.
+After 10 years the quitting rate is really low from 96 to 11 employees quitting after 14 years.
+A quite high number of people quitting is from being a company for 6 up to 9 years. 
+
+Employee satisfaction doesn't seem to be a main factor when it comes to employees quitting. 
+Only 4 employees weren't satisfied with their work (giving a score of 2), while 490 
+were highly satisfied with their work (giving a score of 4 to 5).
+
+Approximately 700 employees who quit were fully meeting or exceeding the expectations. 
+Only around 32 needed improvement.
+
+### Department with the highest turnover rate
+- Production- over 670 employees
+
 ## Recommendations and Next Steps
 - The least employees bring website banner ads and social media. This could mean that the company
-could stop advertising their job openings via website banners and save some money thanks to that and spend them elsewhere.
+could stop advertising their job openings via website banners and save some money thanks to that and spend it elsewhere.
 - The company could pay more attention to their presence in social networking media and look into 
 having a dedicated employee to deal with posts on Facebook and Twitter.
 - The company should review if they regularly increase the salary of hard-working employees.
 - To prevent employees from leaving because of feeling unhappy the company could provide their employees
 a regular mental support and openly support the employees taking time off to take care of their mental health.
+- The company should pay particular attention to employees working for 6-9 years in a company,
+offering them positions to progress into, salary rises and training opportunities.
+- Extra support should be given to the Production department to hire employees in that department who will
+stay in the position for longer.
 
 
 
