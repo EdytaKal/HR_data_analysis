@@ -5,7 +5,7 @@ Another thing useful to know is the profile of people most likely to quit. By re
 quitting employees to stay in the company.
 
 Today I will be addressing that problem by answering the following questions in my analysis:
-1) What is the profile of the most successful employee for the company so far (including the rough age range, gender, marital status and which state they live in)?
+1) What is the profile of the most successful employee for the company so far (including their gender, citizenship and origins)?
 2) What is the profile of the most likely to quit employee (including age, marital status, and how long they have worked for the company)?
 
 A dataset used for my analysis is from 2006-2018 and can be found [here](https://www.kaggle.com/datasets/davidepolizzi/hr-data-set-based-on-human-resources-data-set).
@@ -37,6 +37,20 @@ An interactive Tableau dashboard can be found here.
 - 15 female and 9 male US citizens of Hispanic origins
 - 4 female and 1 male eligible non-citizens of non-Hispanic origins
 - 1 female non-US citizen of non-Hispanic roots
+
+### Most effective recruitment sources that the company has control over:
+- diversity job fair- 23 employed
+- via the monster.com website- 15 employed
+  
+Quite a few are getting employed by referral or via word of mouth, which can suggest
+that people are generally happy with the company to refer people in.
+
+## Recommendations and Next Steps
+- The least employees bring website banner ads and social media. This could mean that the company
+could stop advertising their job openings via website banners.
+- The company could pay more attention to their presence in social networking media and look into 
+having a dedicated employee to deal with posts on Facebook and Twitter.
+  
 
 
 
