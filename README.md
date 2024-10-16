@@ -8,7 +8,7 @@ Today I will be addressing that problem by answering the following questions in 
 1) What is the profile of the most successful employee for the company so far (including the rough age range, gender, marital status and which state they live in)?
 2) What is the profile of the most likely to quit employee (including age, marital status, and how long they have worked for the company)?
 
-A dataset used for my analysis can be found [here](https://www.kaggle.com/datasets/davidepolizzi/hr-data-set-based-on-human-resources-data-set)
+A dataset used for my analysis can be found [here](https://www.kaggle.com/datasets/davidepolizzi/hr-data-set-based-on-human-resources-data-set).
 
 An interactive Tableau dashboard can be found here.
 
