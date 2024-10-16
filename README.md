@@ -1,4 +1,4 @@
-# Employement Data Analysis For A Medium Size USA Company
+# Employement Data Analysis For A Medium Size USA Company from 2006-2018
 ## Intro
 Hiring new people takes a lot of effort and resources. That is why it is important to identify the profile of a good employee and recognise through which resources have they been hired. 
 Another thing useful to know is the profile of people most likely to quit. By recognising this, the employee can then think of ways of attracting the potentially 
@@ -8,8 +8,7 @@ Today I will be addressing that problem by answering the following questions in 
 1) What is the profile of the most successful employee for the company so far (including the rough age range, gender, marital status and which state they live in)?
 2) What is the profile of the most likely to quit employee (including age, marital status, and how long they have worked for the company)?
 
-I am using the following dataset for a USA company from 2006-2018 for my analysis:
-https://www.kaggle.com/datasets/davidepolizzi/hr-data-set-based-on-human-resources-data-set.
+A dataset used for my analysis can be found [here](https://www.kaggle.com/datasets/davidepolizzi/hr-data-set-based-on-human-resources-data-set)
 
 An interactive Tableau dashboard can be found here.
 
