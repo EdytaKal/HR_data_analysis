@@ -14,12 +14,12 @@ https://www.kaggle.com/datasets/davidepolizzi/hr-data-set-based-on-human-resourc
 An interactive Tableau dashboard can be found here.
 
 ## Metrics and Dimensions
-** Position **
-** Citizen Description **
-** Hispanic or Latino **
-** Reason for Termination **
-** Recruitment Source **
-** Performance Score **
+**Position**
+**Citizen Description**
+**Hispanic or Latino**
+**Reason for Termination**
+**Recruitment Source**
+**Performance Score**
 
 ## Summary of Insights
 ### Among employees employed for over 10 years and exceeding expectations there are:
@@ -33,10 +33,5 @@ An interactive Tableau dashboard can be found here.
 - 4 female and 1 male eligible non-citizens of non-Hispanic origins
 - 1 female non-US citizen of non-Hispanic roots
 
-
-- age
-- citizenship
-- whether they are Hispanic or not
-- how long have they been working in a company
 
 
