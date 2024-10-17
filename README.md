@@ -2,11 +2,11 @@
 ## Intro
 Hiring new people takes a lot of effort and resources. That is why it is important to answer the following questions:
 
-**_1) Which recruitment source has been the most effective when hiring employees fully meeting or exceeding the managers' expectations?_** 
+**QUESTION 1: Which recruitment source has been the most effective when hiring employees fully meeting or exceeding the managers' expectations?_** 
 
    Identifying which recruitment resources have been the most effective in finding well-performing employees will allow HR to pay particular attention to them when looking for new employees.
 
-**_2) After how many years of working in a company is the employee most likely to quit and what are their reasons behind it?_**
+**_QUESTION 2: After how many years of working in a company is the employee most likely to quit and what are their reasons behind it?_**
    
    Understanding when an employee is most likely to quit and why could allow the employee to address those reasons to prevent valuable employees from leaving the company. That would then effectively save the company's resources which would have to be spent when looking for their replacement.
 
