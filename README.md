@@ -2,11 +2,11 @@
 ## Intro
 Hiring new people takes a lot of effort and resources. That is why it is important to answer the following questions:
 
-**QUESTION 1: Which recruitment source has been the most effective when hiring employees fully meeting or exceeding the managers' expectations?_** 
+**QUESTION 1:** *Which recruitment source has been the most effective when hiring employees fully meeting or exceeding the managers' expectations?* 
 
    Identifying which recruitment resources have been the most effective in finding well-performing employees will allow HR to pay particular attention to them when looking for new employees.
 
-**_QUESTION 2: After how many years of working in a company is the employee most likely to quit and what are their reasons behind it?_**
+**QUESTION 2:** *After how many years of working in a company is the employee most likely to quit and what are their reasons behind it?*
    
    Understanding when an employee is most likely to quit and why could allow the employee to address those reasons to prevent valuable employees from leaving the company. That would then effectively save the company's resources which would have to be spent when looking for their replacement.
 
@@ -22,8 +22,7 @@ An interactive Tableau dashboard can be found [here](TODO).
 
 **Performance Score**
 
-## *Question 1: analyzing the effectiveness of the recruitment tools*
-
+## *Analysis for question 1:*
 ### The most effective recruitment sources that the company has control over:
 - diversity job fair- 23 employed
 - via the monster.com website- 15 employed
@@ -35,7 +34,7 @@ that people are generally happy with the company to refer people in.
 - The least employees bring website banner ads and social media. This could mean that the company could stop advertising their job openings via website banners and instead spend it elsewhere.
 - The company could pay more attention to their presence in social networking media and look into having a dedicated employee to deal with posts on Facebook and Twitter.
 
-## *Question 2: analyzing after what length of employment employees quit and why*
+## *Analysis for question 2:*
 
 ### Length of employment before an employee terminates their hire.
 The highest rate of people leaving is after 9 years of working in a company- 344.
