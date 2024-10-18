@@ -22,6 +22,7 @@ An interactive Tableau dashboard can be found [here](TODO).
 
 **Performance Score**
 
+
 ## 1) After how many years of working in a company is the employee most likely to quit and what are their reasons behind it?*
 
 ### Length of employment before an employee terminates their hire.
