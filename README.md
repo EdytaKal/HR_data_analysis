@@ -22,7 +22,7 @@ An interactive Tableau dashboard can be found [here](TODO).
 
 **Performance Score**
 
-## *Analysis for question 1:*
+## 1) After how many years of working in a company is the employee most likely to quit and what are their reasons behind it?*
 
 ### Length of employment before an employee terminates their hire.
 The highest rate of people leaving is after 9 years of working in a company- 344.
@@ -59,7 +59,7 @@ offering them positions to progress into, salary rises and training opportunitie
 - To prevent employees from leaving because of feeling unhappy the company could provide their employees
 a regular mental support and openly support the employees taking time off to take care of their mental health.
 
-## *Analysis for question 2:*
+## *2) Which recruitment source has been the most effective when hiring employees fully meeting or exceeding the managers' expectations?*
 ### The most effective recruitment sources that the company has control over:
 - diversity job fair- 23 employed
 - via the monster.com website- 15 employed
