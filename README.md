@@ -3,6 +3,8 @@
 Hiring new people takes a lot of effort and resources. That is why it is important to answer the following questions:
 
 *1) After how many years of working in a company is the employee most likely to quit and what are their reasons behind it?*
+
+![image](https://github.com/user-attachments/assets/835aa176-d16d-42e6-b2be-fcc186d039ba)
    
    Understanding when an employee is most likely to quit and why could allow the employee to address those reasons to prevent valuable employees from leaving the company. That would then effectively save the company's resources which would have to be spent when looking for their replacement.
 
