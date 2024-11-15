@@ -7,7 +7,7 @@ The company generally has a good reputation among their employees which results 
 
 A high number of employees are quitting  after working in the company for 6-9 years for the reason of feeling unhappy. To avoid that the company should pay particular attention to such employees and provide them with positions to progress into within the company, salary rises and training opportunities. The company should also focus on providing their employees with regular mental support and openly support the employees in taking time off to take care of their mental health which could then lower the number of employees leaving the company because of feeling unhappy.
 
-![image]("C:\Users\ejkal\OneDrive\Documents\folders_CreatedByMe\learningMaterialsAndPlans\data_learning\data_PortfolioProjects\HR_dataAnalysis\HR_dataset_tablesOverview.png")
+![image]()
 
 ## Insights Deep-Dive
 TODO
