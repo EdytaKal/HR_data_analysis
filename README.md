@@ -3,11 +3,12 @@
 The company whose dataset is analysed in this project is a US engineering company that started in 2006 and has around 2000 active employees. I am partnering with the Head of Human Resources to extract insights and deliver recommendations to attract hard-working, new employees and to ensure that the current employees are kept satisfied and that they stay in the company.
 
 I will be running the analysis using an HR dataset from 2006-2018 for a USA company with around 2000 employees (view the dataset [here](https://www.kaggle.com/datasets/davidepolizzi/hr-data-set-based-on-human-resources-data-set)).
+All of the graphs used in this project can be found in an interactive Tableau dashboard [here](https://public.tableau.com/app/profile/edi.kal/viz/HR_dataset2/Dashboard1#1).
 
 ## Executive Summary 
-The company generally has a good reputation among their employees which results in a high number of referrals. The least employees bring website banner ads and social media. This could mean that the company could stop advertising their job openings via website banners and instead spend their resources on having a dedicated employee to deal with posts on Facebook and Twitter.
+The company generally has a good reputation among their employees, resulting in many referrals. The least employees bring website banner ads and social media. This could mean that the company could stop advertising their job openings via website banners and instead spend resources on having a dedicated employee to deal with posts on Facebook and Twitter.
 
-A high number of employees are quitting  after working in the company for 6-9 years for the reason of feeling unhappy. To avoid that the company should pay particular attention to such employees and provide them with positions to progress into within the company, salary rises and training opportunities. The company should also focus on providing their employees with regular mental support and openly support the employees in taking time off to take care of their mental health which could then lower the number of employees leaving the company because of feeling unhappy.
+A high number of employees quit after working in the company for 6-9 years because of feeling unhappy. To avoid that the company should pay particular attention to such employees and provide them with positions to progress into within the company, salary rises and training opportunities. The company should also focus on providing their employees with regular mental support and openly support them in taking time off to take care of their mental health which could then lower the number of employees leaving the company because of feeling unhappy.
 
 <p align="center">
    <img src= "/images/HR_dataset_tablesOverview.png">
@@ -17,7 +18,7 @@ A high number of employees are quitting  after working in the company for 6-9 ye
 ### Length of employment before an employee terminates their hire.
 A quite high number of people quitting is from being a company for 6 up to 9 years. 
 The highest rate of people leaving is after 9 years of working in a company- 344.
-After 10 years of employment the quitting rate is really low- from 96 to 11 employees quitting after 14 years.
+After 10 years of employment, the quitting rate is low- from 96 to 11 employees quitting after 14 years.
 
 Employee satisfaction doesn't seem to be a main factor when it comes to employees quitting. 
 Only 4 employees weren't satisfied with their work (giving a score of 2), while 490 
@@ -66,8 +67,6 @@ offering them and others positions to progress into and training opportunities s
 
 
 THE BELOW MIGHT NOT BE NEEDED:
-An interactive Tableau dashboard can be found [here](TODO).
-
 Hiring new people takes a lot of effort and resources. That is why it is important to answer the following questions:
 
 *1) After how many years of working in a company is the employee most likely to quit and what are their reasons behind it?*
