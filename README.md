@@ -3,6 +3,7 @@
 The company whose dataset is analysed in this project is a US engineering company that started in 2006 and has around 2000 active employees. I am partnering with the Head of Human Resources to extract insights and deliver recommendations to attract hard-working, new employees and to ensure that the current employees are kept satisfied and that they stay in the company.
 
 I will be running the analysis using an HR dataset from 2006-2018 for a USA company with around 2000 employees (view the dataset [here](https://www.kaggle.com/datasets/davidepolizzi/hr-data-set-based-on-human-resources-data-set)).
+
 All of the graphs used in this project can be found in an interactive Tableau dashboard [here](https://public.tableau.com/app/profile/edi.kal/viz/HR_dataset2/Dashboard1#1).
 
 ## Executive Summary 
