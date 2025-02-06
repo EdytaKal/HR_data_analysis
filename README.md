@@ -51,6 +51,8 @@ Some mothers leave after giving birth. Companies could prevent that by allowing 
 Quite a few people are getting employed by referral or via word of mouth, which can suggest
 that people are generally happy with the company to refer people in.
 
+![image](https://github.com/user-attachments/assets/835aa176-d16d-42e6-b2be-fcc186d039ba)
+
 
 ## Recommendations
 ### Preventing employees from leaving
@@ -62,22 +64,6 @@ offering them and others positions to progress into and training opportunities s
 ### Successful resources for bringing new employees in
 - **Stop using website banner ads**: Move away from advertising the job openings via website banners and instead spend the freed-up resources elsewhere.
 - **Work on the company's presence on social media**: Look into having a dedicated employee to deal with posts on Facebook and Twitter.
-
-
-
-
-
-THE BELOW MIGHT NOT BE NEEDED:
-Hiring new people takes a lot of effort and resources. That is why it is important to answer the following questions:
-
-*1) After how many years of working in a company is the employee most likely to quit and what are their reasons behind it?*
-   
-   Understanding when an employee is most likely to quit and why could allow the employee to address those reasons to prevent valuable employees from leaving the company. That would then effectively save the company's resources which would have to be spent when looking for their replacement.
-
-*2) Which recruitment source has been the most effective when hiring employees fully meeting or exceeding the managers' expectations?* 
-![image](https://github.com/user-attachments/assets/835aa176-d16d-42e6-b2be-fcc186d039ba)
-
-   Identifying which recruitment resources have been the most effective in finding well-performing employees will allow HR to pay particular attention to them when looking for new employees.
 
 
 
